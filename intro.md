@@ -3,17 +3,14 @@
 
 # PRÉSENTATION GÉNÉRALE
 
-### Présentation entreprise :
-onepoint est une entreprise spécialisée sur les grands projets de transformation numérique des entreprises et organisations :
-* 2300 collaborateurs
-* 33 ans de moyenne d'âge
+### Présentation de l'entreprise :
+Onepoint est une entreprise spécialisée sur les grands projets de transformation numérique des entreprises et organisations.
+
+### L'entreprise en quelques chiffres :
+* 2500 collaborateurs
+* 34 ans de moyenne d'âge
 * 15 implantations dans le monde
 * 300 millions d'euros de chiffres d'affaires
-
-### Présentation de ses projets :
-Les projets ML passés ou en cours (ou autre projets, si pas de ML jusqu'à présent)
-
-- Plateformisation 
 
 # MOIS D'ALTERNANCE
 
@@ -35,8 +32,8 @@ Plateforme de traitement de données pour évaluer des actifs financiers en fonc
 # RETOUR EN ENTREPRISE (AVRIL)
 
 | Difficultés restant à résoudre | Piste de résolution |
-|:-----:|:-----:|
-| Transformer les typages utilisés pour les données scrappées | Créer des objets avec des typages customisés ex pour les pays : au lieu de String, mieux vaut créer un objet de type Country |
+|:-------------------------------:|:------------------:|
+| Transformer les typages utilisés pour les données scrappées | Créer des objets avec des typages customisés<br/> ex pour les pays : au lieu de String, mieux vaut créer un objet de type Country |
 | Tester l'adaptabilité de l'algorithme de scrapping | Injecter de nouveaux PDFs du même type afin de voir si des exceptions/erreurs apparaissent |
 | Créer une architecture pour d'autres PDF | Reprendre l'architecture existante (API, appel du service d'import,...) et la minimaliser en attendant de connaître les données qui seront à récupérer |
 
