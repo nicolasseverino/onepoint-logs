@@ -12,6 +12,11 @@ Onepoint est une entreprise spécialisée sur les grands projets de transformati
 * 15 implantations dans le monde
 * 300 millions d'euros de chiffres d'affaires
 
+### Projets en IA
+* Plateformisation
+* Cockpit
+* iDecide
+
 # MOIS D'ALTERNANCE
 
 ### Mon projet
